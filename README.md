@@ -1,4 +1,4 @@
-![image](https://github.com/sglauber/sglauber/assets/6403699/e61b75b7-f822-49e7-8aae-36c84b31b69c)![image](https://github.com/sglauber/sglauber/assets/6403699/67dcba15-9dc9-4bdb-a78f-ee26767b8dfa)## Hi there!
+## Hi there!
 
 - 👨🏾‍💻 I’m currently working as Full Stack developer
 - 🐳 I'm also becoming a DevOps lover
