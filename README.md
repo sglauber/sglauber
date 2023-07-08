@@ -1,9 +1,9 @@
 ## Hi there!
 
-- 👨🏾‍💻 I’m currently working as Full Stack developer
-- 🐳 I'm also becoming a DevOps lover
-- 🐞 Undergraduate Computer Engineering at Universidade Estadual de Feira de Santana (UEFS)
+- 👨🏾‍💻 I currently work as Full Stack Developer
+- 🐳 I'm a DevOps enjoyer
 - 💬 Ask me about data structures and algorithms
+- ⏩ I love making bad puns and I keep going so I'm also learning How To 'Go'
 - 📫 Reach me through **glauber.silva14@gmail.com**
 
 ---
@@ -13,9 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sglauber&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
 <h2 align="left">Technologies I use, sorted by affinity:</h2>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
