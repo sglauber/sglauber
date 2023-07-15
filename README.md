@@ -2,8 +2,8 @@
 
 - 👨🏾‍💻 I currently work as Full Stack Developer
 - 🐳 I'm a DevOps enjoyer
-- 💬 Ask me about data structures and algorithms
-- ⏩ I love making bad puns and I keep going so I'm also learning How To 'Go'
+- 💬 I'm also learning How To 'Go'
+- ⏩ My speciality is making bad puns
 - 📫 Reach me through **glauber.silva14@gmail.com**
 
 ---
