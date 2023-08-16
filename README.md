@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 👨🏾‍💻 I currently work as Full Stack Developer
+- 👨🏾‍💻 Currently working as Software Engineer
 - 🐳 I'm a DevOps enjoyer
 - 💬 I'm also learning How To 'Go'
 - ⏩ My speciality is making bad puns
