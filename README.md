@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻 Currently working as Software Engineer
 - 🐳 I'm a DevOps enjoyer
-- 💬 I'm also learning How To 'Go'
+- 💬 I'm also learning How To Go, Rust and Haskell.
 - ⏩ My speciality is making bad puns
 - 📫 Reach me through **glauber.silva14@gmail.com**
 
