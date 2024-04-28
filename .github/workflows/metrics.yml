@@ -12,7 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
 
-          user: sglauber
+          user: glwbr
           template: classic
           base: header, activity, community, repositories #, metadata
           config_animations: yes
@@ -32,5 +32,5 @@ jobs:
           plugin_languages_skipped: GOD-GOG
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: sglauber/dotfiles
+          plugin_repositories_featured: glwbr/dotfiles
           plugin_traffic: yes
